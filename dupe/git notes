@@ -1,0 +1,38 @@
+Use dashes to separate words in branch names. This gives you the best readability.
+Examples:
+email-validator
+issue-426
+
+ui-cli-output
+
+Use grouping tokens as prefixes separated with a slash
+
+topic/\* feature or feature set
+
+release/\* prepare release
+
+hotfix/\* resolves an immediate issue
+
+bugfix/\* resolves an issue
+
+wip/\* work in progress
+
+Examples:
+
+feature/feature-name
+
+release/1.6.0
+
+hotfix/426
+
+bugfix/app-submission
+
+wip/trying-feature-name
+
+Be consistent with naming conventions
+
+All lowercase letters
+
+Do not use underscores
+
+No spaces
